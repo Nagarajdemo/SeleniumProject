@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true" name="C:/Users/91900/IdeaProjects/SeleniumProject">
         <classes>
             <class name="com.demo.test.LoginPageTest"> </class>
+            <class name="com.demo.test.RegisterTest"> </class>
         </classes>
     </test>
 </suite>
