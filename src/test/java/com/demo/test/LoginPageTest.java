@@ -21,8 +21,8 @@ public class LoginPageTest extends Base {
 
     @Test
     public void testLoginPage(){
-       String loginWithUN= loginPage.enterUserName("aikpa4006a");
-        Assert.assertEquals(loginWithUN,"AIKPA4006A" );
+       String loginWithUN= loginPage.enterUserName("aikpa4006*");
+        Assert.assertEquals(loginWithUN,"AIKPA4006*" );
 
     }
 
