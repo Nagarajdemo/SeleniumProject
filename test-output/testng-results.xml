@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="11906" started-at="2021-12-27T20:11:51 IST" finished-at="2021-12-27T20:12:03 IST">
+    <groups>
+    </groups>
+    <test name="SeleniumProject" duration-ms="11906" started-at="2021-12-27T20:11:51 IST" finished-at="2021-12-27T20:12:03 IST">
+      <class name="com.demo.test.RegisterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.RegisterTest@4e1d422d]" name="setUp" is-config="true" duration-ms="3825" started-at="2021-12-27T20:11:58 IST" finished-at="2021-12-27T20:12:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterTest()[pri:0, instance:com.demo.test.RegisterTest@4e1d422d]" name="validateRegisterTest" duration-ms="780" started-at="2021-12-27T20:12:02 IST" finished-at="2021-12-27T20:12:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.test.RegisterTest@4e1d422d]" name="tearDown" is-config="true" duration-ms="662" started-at="2021-12-27T20:12:03 IST" finished-at="2021-12-27T20:12:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.test.RegisterTest -->
+      <class name="com.demo.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.LoginPageTest@5f2108b5]" name="setUp" is-config="true" duration-ms="5273" started-at="2021-12-27T20:11:52 IST" finished-at="2021-12-27T20:11:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:com.demo.test.LoginPageTest@5f2108b5]" name="testLoginPage" duration-ms="597" started-at="2021-12-27T20:11:57 IST" finished-at="2021-12-27T20:11:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.test.LoginPageTest@5f2108b5]" name="tearDown" is-config="true" duration-ms="725" started-at="2021-12-27T20:11:57 IST" finished-at="2021-12-27T20:11:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.test.LoginPageTest -->
+    </test> <!-- SeleniumProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
